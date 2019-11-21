@@ -42,7 +42,7 @@ func main() {
 	case "decrypt":
 		result, err = cryptkeeper.Decrypt(value)
 	default:
-		fmt.Println("Invalid opeation: ", operation)
+		fmt.Println("Invalid operation: ", operation)
 		os.Exit(1)
 	}
 	if err != nil {
