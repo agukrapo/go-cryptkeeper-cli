@@ -1,2 +1,4 @@
 github.com/blaskovicz/go-cryptkeeper v0.0.0-20190930202326-736b85609f91 h1:htfkBBjhD5gi6WkDbU1Eq0qE67h0vAmeb3HWtn/Qdlc=
 github.com/blaskovicz/go-cryptkeeper v0.0.0-20190930202326-736b85609f91/go.mod h1:aLh4O6/WQZYvQ/LKF4hPidOh/oofXPjIShojoLvbrjg=
+github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
+github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
